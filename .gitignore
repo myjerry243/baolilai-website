@@ -1,0 +1,13 @@
+# source material and internal planning — not published
+_source/
+media_src/
+storyboard/
+
+# scratch / one-off scripts
+tools/_add_downloads.py
+tools/deploy_github.py
+tools/_tmp_body.json
+
+# python
+__pycache__/
+*.pyc

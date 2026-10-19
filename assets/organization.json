@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Guangdong Baolilai Industrial Co., Ltd.",
+  "alternateName": "广东宝利莱工业有限公司",
+  "url": "https://www.your-domain.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Foshan",
+    "addressRegion": "Guangdong",
+    "addressCountry": "CN"
+  },
+  "description": "Powder coating manufacturer: bonded metallics, architectural polyester, low-temperature cure, epoxy systems."
+}
